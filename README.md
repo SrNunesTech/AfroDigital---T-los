@@ -44,4 +44,3 @@ Este projeto tem como objetivo analisar dados de vendas de carros no Nordeste do
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-nunes-planejadordeobras/) Marcos Nunes 
 
-**Que a Força dos Dados esteja com você!** 🚀 ✨ 
